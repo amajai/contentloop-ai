@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="resources/contentloop.png" alt="ContentLoop AI Logo" width="200"/>
+  <img src="resources/contentloop.png" alt="ContentLoop AI Logo"/>
   
   <h1>ContentLoop AI</h1>
   <p><em>Human-in-the-loop content creation</em></p>
